@@ -1,0 +1,121 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+
+.green-text{
+	color: #41521F;
+}
+.brown-text{
+	color: #A89F68;
+}
+.white-text{
+	color: #fff;
+}
+.pd-5{
+	padding: 5px;
+}
+.pd-10{
+	padding: 10px;
+}
+/* ----- HEADER -----*/
+.header{
+	background-image: url(../img/portada.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 580px;
+	margin-right: 0;
+	margin-left: 0;
+}
+.navbar-toggle {
+    border-color: #000;
+}
+.bg-b{
+    font-size: 1.5em;
+    background-color: #000;
+}
+
+nav{
+	padding: 2%;
+}
+@media (min-width: 768px){
+	navbar.less:385
+	.navbar-right {
+	    float: right!important;
+	    margin-right: -15px;
+	}
+}
+
+.save{
+	padding-top: 10%;
+}
+
+.btn-color{
+	background-color: #41521F;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+/* ----- SECOND-----*/
+#foundation{
+	height: 800px;
+}
+
+.second_img{
+	transform: scale(0.5);
+}
+
+/* ----- EASY HELP-----*/
+#easy_help{
+	background-color: #A89F68;
+	padding: 25px;
+}
+
+#cosita{
+	border: 5px solid #fff;
+}
+
+/* ----- HELP-----*/
+#help{
+	background-image: url(../img/all.jpg);
+	height: 500px;
+	padding: 25px;
+}
+
+/* ----- SEIS----*/
+#seis{
+	padding: 25px;
+}
+.info{
+	padding: 10px;
+}
+/* ----- DONATION----*/
+#donation{
+	background-color: #A89F68;
+	padding: 25px;
+}
+.price{
+	color: #fff;
+	font-size: 2.8em;
+}
+.dolar{
+	text-decoration: none;
+	color: #fff;
+	font-size: 1em;
+	padding-left: 15%;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+.aud{
+	color: #fff;
+	font-size: 1em;
+}
+
+
+/* ----- FOOTER----*/
+footer{
+	padding: 35px;
+	color: #fff;
+	background-color: #41521F;
+}
