@@ -83,6 +83,9 @@ nav{
 	padding: 25px;
 }
 
+.carrousel_img{
+	height: 700px;
+}
 /* ----- SEIS----*/
 #seis{
 	padding: 25px;
@@ -102,14 +105,14 @@ nav{
 .dolar{
 	text-decoration: none;
 	color: #fff;
-	font-size: 1em;
-	padding-left: 15%;
+	font-size: 1.3em;
+	padding-left: 29%;
 	padding-bottom: 0;
 	margin-bottom: 0;
 }
 .aud{
 	color: #fff;
-	font-size: 1em;
+	font-size: 0.8em;
 }
 
 
